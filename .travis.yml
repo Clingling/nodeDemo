@@ -7,7 +7,7 @@ notifications:
   webhooks:
     urls:
       - https://open.feishu.cn/officialapp/notify/45c48172f2fd63c2e11dece3ee88bdf774a48fd90dc31c6b805f5e6836b8c933
-      - https://open.feishu.cn/officialapp/notify/45c48172f2fd63c2e11dece3ee88bdf774a48fd90dc31c6b805f5e6836b8c933
+      - https://open.feishu.cn/officialapp/notify/56e7b58829fcff6a956990b79de92120751b08e621bf103839eb9725bab741bb
     on_success: always # default: always
     on_failure: always # default: always
     on_start: never # default: never
